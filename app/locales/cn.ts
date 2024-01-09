@@ -437,7 +437,7 @@ const cn = {
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
     Title: "挑选一个泡芙",
-    SubTitle: "现在开始，与泡芙背后的灵魂思维碰撞",
+    SubTitle: "选择一个泡芙身份，帮助您完成任务",
     More: "查看全部",
   },
 
