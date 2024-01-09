@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     maximumScale: 1,
   },
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fafafa" },
+    { media: "(prefers-color-scheme: light)", color: "#E3D0CC" },
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
