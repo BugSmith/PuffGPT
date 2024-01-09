@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           PuffChat
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          ÏãÏãÈíÈíĞ¡ÅİÜ½.
+          é¦™é¦™è½¯è½¯å°æ³¡èŠ™.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
